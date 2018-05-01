@@ -1,0 +1,9 @@
+C:\Users\dell\documents\visual studio 2015\Projects\WinForms-uart\WinForms-uart\bin\Release\WinForms-uart.exe.config
+C:\Users\dell\documents\visual studio 2015\Projects\WinForms-uart\WinForms-uart\bin\Release\WinForms-uart.exe
+C:\Users\dell\documents\visual studio 2015\Projects\WinForms-uart\WinForms-uart\bin\Release\WinForms-uart.pdb
+C:\Users\dell\documents\visual studio 2015\Projects\WinForms-uart\WinForms-uart\obj\Release\WinForms-uart.csprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2015\Projects\WinForms-uart\WinForms-uart\obj\Release\WinForms_uart.Form1.resources
+C:\Users\dell\documents\visual studio 2015\Projects\WinForms-uart\WinForms-uart\obj\Release\WinForms_uart.Properties.Resources.resources
+C:\Users\dell\documents\visual studio 2015\Projects\WinForms-uart\WinForms-uart\obj\Release\WinForms-uart.csproj.GenerateResource.Cache
+C:\Users\dell\documents\visual studio 2015\Projects\WinForms-uart\WinForms-uart\obj\Release\WinForms-uart.exe
+C:\Users\dell\documents\visual studio 2015\Projects\WinForms-uart\WinForms-uart\obj\Release\WinForms-uart.pdb
